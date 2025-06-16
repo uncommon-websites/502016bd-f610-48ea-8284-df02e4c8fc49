@@ -11,12 +11,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="/sample.png"
-	generating
+  title="Immigrate faster. Build in the U.S."
+  subtitle="Simple, fast visas for extraordinary technologists."
+  imageSrc="/generated/image-a-stem-professional-thriving-in-a-contem.webp"
+  centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller
+  label="Trusted by industry leaders"
+  logoUrls={[
+    "https://logo.clearbit.com/replit.com",
+    "https://logo.clearbit.com/ycombinator.com",
+    "https://logo.clearbit.com/livingcarbon.com",
+    "https://logo.clearbit.com/latch.bio"
+  ]}
+/>
 
 <Summary
 	generating
